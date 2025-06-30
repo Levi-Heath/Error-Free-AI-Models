@@ -1,4 +1,4 @@
-# Error-Free-AI-Models
+# Error-Free AI Models
 Model weights for simple artificial neural networks (ANNs) that are trained to or near 100% accuracy on several benchmarking datasets. 
 
 ## Models
