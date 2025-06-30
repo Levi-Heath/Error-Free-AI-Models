@@ -5,7 +5,5 @@ Model weights for simple artificial neural networks (ANNs) that are trained to o
 | Dataset  | Model Architecture | Accuracy |
 | ------------- | ------------- | ------------- |
 | MNIST  | 784-100-10 FNN  | 100% |
-| ------------- | ------------- | ------------- |
 | FashionMNIST  | 784-100-10 FNN  | 100% |
-| ------------- | ------------- | ------------- |
 | ImageNet 1k |  |  |
