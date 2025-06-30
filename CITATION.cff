@@ -8,15 +8,15 @@ message: >-
   metadata from this file.
 type: software
 authors:
+  - given-names: Bo
+    family-names: Deng
+    email: bdeng1@nebraska.edu
+    affiliation: University of Nebraska-Lincoln
   - given-names: Levi
     family-names: Heath
     email: lheath2@uccs.edu
     affiliation: University of Colorado Colorado Springs
     orcid: 'https://orcid.org/0000-0002-3192-8288'
-  - given-names: Bo
-    family-names: Deng
-    email: bdeng1@nebraska.edu
-    affiliation: University of Nebraska-Lincoln
 abstract: >-
   Model weights for simple artificial neural networks (ANNs)
   that are trained to or near 100% accuracy on several
