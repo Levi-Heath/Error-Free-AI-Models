@@ -6,4 +6,4 @@ Model weights for simple artificial neural networks (ANNs) that are trained to o
 | ------------- | ------------- | ------------- |
 | MNIST  | 784-100-10 FNN  | 100.0% |
 | FashionMNIST  | 784-100-10 FNN  | 100.0% |
-| ImageNet-1k |  | 98.3% |
+| ImageNet-1k |  |  98.3% |
