@@ -1,6 +1,7 @@
 %
-% 1. Create two folders: 'Modularized_Data_for_SGD' and 
-%     'Transformed_Data_for_SGD' in the current foler. 
+% 1. Create a parent folder '../Transformed_IN1k_Data' and two subfolders: 
+%     '../Transformed_IN1k_Data/Modularized_Data_for_SGD' and 
+%     '../Transformed_IN1k_Data/Transformed_Data_for_SGD' in the current folder.  
 %
 % 2. Run first 'Run_Modularize_Data.m' to organize the ImageNet-1k into 
 %     modules of labels. 
