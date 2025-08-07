@@ -17,9 +17,11 @@ For a thorough description of our models trained on the ImageNet-1k dataset, ple
 
 | Model | Training Method | FNN Architecture |
 | ------------- | ------------- | ------------- |
-| Model_S_h1_m1 | stochastic gradient descent (SGD) | 900-256-25 |
+| Model_S_h1_m1 | SGD | 900-256-25 |
 | Model_S_h1_m2 | SGD | 900-256-25 |
 | Model_S_h2_m1 | SGD | 900-256-77-25 |
-| Model_T_h1_m1 | SGD and gradient descent tunneling (GDT) | 900-256-25 |
-| Model_T_h1_m2 | SGD and GDT | 900-256-25 |
-| Model_T_h2_m1 | SGD and GDT | 900-256-77-25 |
+| Model_T_h1_m1 | SGD followed by GDT | 900-256-25 |
+| Model_T_h1_m2 | SGD followed by GDT | 900-256-25 |
+| Model_T_h2_m1 | SGD followed by GDT | 900-256-77-25 |
+*SGD = stochastic gradient descent
+**GDT = gradient descent tunneling
