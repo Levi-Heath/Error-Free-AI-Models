@@ -12,6 +12,6 @@ These models were trained to a modest error rate using a standard stochastic gra
 
 
 # Toward Errorless Training ImageNet-1k
-We have also trained models using gradient descent tunneling on the ImageNet-1k dataset, which achieve a very high accuracy rate (98.300%). 
+We have also trained models using gradient descent tunneling on the ImageNet-1k dataset, which achieve a very high accuracy rate (98.3%). 
 To learn more about these models, please read our manuscript, *Toward Errorless Training ImageNet-1k* (https://arxiv.org/abs/2508.04941).
 The models and code that accompany this paper are hosted on the Hugging Face repository: https://huggingface.co/Levi-Heath/Towards-Errorless-Training-ImageNet-1k
